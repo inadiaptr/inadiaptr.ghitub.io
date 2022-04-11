@@ -1,0 +1,8 @@
+<script>
+var bil;
+bil=1;
+while(bil<=1000){
+	document.write("<center>te amo</center>");
+	bil=bil+1;
+}
+</script>
